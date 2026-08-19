@@ -1,0 +1,15 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Solo maintainer working agreement",
+      "description": "How an agent conducts itself on a codebase maintained by one person or a small team — the route from a request to a shipped change, the limits on what it may do unasked, and the quality floors underneath both. Start with solo-start.",
+      "skills": [
+        "solo-start",
+        "solo-project-setup",
+        "solo-engineering"
+      ]
+    }
+  ]
+}
